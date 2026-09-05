@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hey, I'm Corrine! 👋
+- ★ Pronouns: She/Her
+I'm a Mass Communications student at SIUE with a passion for media production!
 
-<!--
-**cjones975/cjones975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📚 Mass Communications Major with an English Minor
+- 📓 Studying at Southern Illinois University of Edwardsville
+- 💻 Learning new systems such as GitHub, VS Code, R, etc
+- 📊 New to data and analytical research
 
-Here are some ideas to get you started:
+## My Current Projects
+- ✏️ MC 451: Research Methods
+- 📈 Building data analysis knowledge and skills
+- 📱 Better learning the tools available to me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Projects
+- 📻 WSIE 88.7 The Sound, SIUE's NPR Music Radio
+- 🗞️ Alestle Live Broadcast, Student Led
+
+## Let's Connect
+- 📧 Email: corrijo@siue.edu
+- 💼 LinkedIn: [www.linkedin.com/in/corrine-jones-73b363358]
+
+## Languages & Tools
+- Git & GitHub
+- R
+- VS Code
