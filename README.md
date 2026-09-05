@@ -25,3 +25,5 @@ I'm a Mass Communications student at SIUE with a passion for media production!
 - Git & GitHub
 - R
 - VS Code
+
+_Last updated: September 2026_
